@@ -1,4 +1,4 @@
-# V#
+# V&#35;
 A brand new programming language made to fix everything bad about every language.
 
 ## Proposed syntax
