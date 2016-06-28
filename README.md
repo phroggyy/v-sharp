@@ -9,7 +9,7 @@ import FooClass
 
 module Bar
     func doSomething(bar: Int)
-        FooClass.bar(namedVariable)
+        FooClass.bar(bar)
         
     internal func exceptionHandler(e: Exception)
         Handler.handle(e)
